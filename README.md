@@ -11,7 +11,6 @@
 
 <div style="display: inline_block"><br>
   <h3>My Skills<h3>
-  <img src="https://pokemonrevolution.net/forum/uploads/monthly_2020_11/Infernape_BW.gif.a3626423c6bf338b36626a69bf4a2c2e.gif" alt="infernape" align="right" width="150px">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
