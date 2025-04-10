@@ -1,6 +1,4 @@
-# 👋 Felipe Rogai | Full Stack Developer
-
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=9835E8&width=435&lines=Hello+World!;Full+Stack+Developer;Open+to+Collaborate" alt="Typing SVG" />
 </div>
 
