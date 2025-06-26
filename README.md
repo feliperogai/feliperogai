@@ -18,12 +18,31 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+
 ## 📊 GitHub Stats
+
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=feliperogai&show_icons=true&theme=dark&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperogai&layout=compact&theme=dark&hide_border=true" />
 </div>
+
+## 👾 Contribution Graph
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/feliperogai/feliperogai/output/pacman-contribution-graph-dark.svg"
+  >
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/feliperogai/feliperogai/output/pacman-contribution-graph.svg"
+  >
+  <img 
+    alt="Pac-Man Contribution Graph" 
+    src="https://raw.githubusercontent.com/feliperogai/feliperogai/output/pacman-contribution-graph.svg"
+  >
+</picture>
 
 ## 🌐 Connect With Me
 
@@ -39,8 +58,4 @@
   </a>
 </div>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/feliperogai/feliperogai/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
