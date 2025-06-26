@@ -47,15 +47,19 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://therogai.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  <a href="mailto:feliperogai@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logoColor=FF00F6&labelColor=000" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/feliperogai/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logoColor=FF00F6&labelColor=000" alt="LinkedIn"/>
   </a>
-  <a href="mailto:feliperogai@hotmailmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  <a href="https://www.instagram.com/feliperogai/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logoColor=FF00F6&labelColor=000" alt="Instagram"/>
+  </a>
+  <a href="https://therogai.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=FF00F6&labelColor=000" alt="Portfolio"/>
   </a>
 </div>
+
 
 
