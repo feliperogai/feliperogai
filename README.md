@@ -74,7 +74,7 @@
   <a href="https://www.instagram.com/feliperogai/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logoColor=FF00F6&labelColor=000" alt="Instagram"/>
   </a>
-  <a href="https://therogai.com" target="_blank">
+  <a href="https://feliperogai.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=FF00F6&labelColor=000" alt="Portfolio"/>
   </a>
 </div>
