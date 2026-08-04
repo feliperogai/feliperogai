@@ -1,8 +1,10 @@
-<div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=9835E8&width=435&lines=Hello+World!;Full+Stack+Developer;Open+to+Collaborate" alt="Typing SVG" />
-</div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9835E8&center=true&vCenter=true&width=520&height=45&lines=Hello+World!;Full+Stack+%26+AI+Agents+Developer;Computer+Engineering+%40+FIAP;Open+to+Collaborate" alt="Full Stack & AI Agents Developer" /> <h1>Felipe Rogai</h1> <p> <strong>Full Stack & AI Agents Developer</strong><br /> Computer Engineering @ FIAP · São Paulo, Brazil </p>
 
-## 🚀 Tech Stack
+<a href="https://feliperogai.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9835E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/feliperogai/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:feliperogai@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a> <a href="https://www.instagram.com/feliperogai/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=feliperogai&label=Profile+views&color=9835E8&style=flat" alt="Profile views" /> </div>
+
+## Tech Stack
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -37,7 +39,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 
 <div align="center">
@@ -45,7 +47,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperogai&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-## 👾 Contribution Graph
+## Contribution Graph
 
 <picture>
   <source 
@@ -61,23 +63,3 @@
     src="https://raw.githubusercontent.com/feliperogai/feliperogai/output/pacman-contribution-graph.svg"
   >
 </picture>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:feliperogai@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logoColor=FF00F6&labelColor=000" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/feliperogai/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logoColor=FF00F6&labelColor=000" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/feliperogai/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logoColor=FF00F6&labelColor=000" alt="Instagram"/>
-  </a>
-  <a href="https://feliperogai.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logoColor=FF00F6&labelColor=000" alt="Portfolio"/>
-  </a>
-</div>
-
-
-
